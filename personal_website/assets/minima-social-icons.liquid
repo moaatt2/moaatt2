@@ -1,0 +1,12 @@
+---
+permalink: /assets/minima-social-icons.svg
+---
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+{% for entry in site.minima.social_links %}
+  {%- assign symbol_id = entry.platform -%}
+  {%- include social/svg_symbol.html key = symbol_id -%}
+{%- endfor -%}
+
+</svg>
