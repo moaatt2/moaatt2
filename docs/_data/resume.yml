@@ -1,0 +1,51 @@
+professional_overview:
+  - professional_point_1
+  - professional_point_2
+
+technical_skills:
+  solution_stack:
+    - Stack1
+    - Stack2
+    - Stack3
+  software_tools:
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+    - Tool1
+    - Tool2
+    - Tool3
+
+education:
+  - institution: "McMaster University"
+    location: "Hamilton, ON"
+    degree: 'B.Sc. Mathematics'
+    time: '2014 - 2019'
+    points:
+      - Point1
+      - Point2
+      - Point3
+
+experience:
+  - company: GiftCash
+    location: "Hamilton, ON"
+    title: 'Data Scientist'
+    time: '2020 - Present'
+    points:
+      - PointA
+      - PointB
+      - PointC
