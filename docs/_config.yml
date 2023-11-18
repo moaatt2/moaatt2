@@ -1,8 +1,14 @@
+# Local Settings | Turn these on for local development
+# baseurl: ""
+
+# Github Pages Setting | Turn these on for github pages deployment
+baseurl: "moaatt2/"
+
+
 # Site settings
 title: Dakota McKay
 email: dakotamckay72@gmail.com
-description: "Content: TODO | footer description" 
-baseurl: "moaatt2/"
+description: "Content: TODO | footer description"
 url: ""
 
 # Author Information
@@ -42,18 +48,18 @@ minima:
       user_title: "RSS Feed"
 
     # Potential future additions
-    # - { platform: linkedin, user_url: "https://www.linkedin.com/in/Jake-Lee" }
-    # - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/608312/Jake-Lee" }
-    # - { platform: x, user_url: "https://www.x.com/JakeLeeUK" }
-    # - { platform: substack, user_url: "https://jakeweeklee.substack.com/", user_title: "Jake Week Lee" }
-    # - { platform: devto,          user_url: "https://dev.to/jekyll" }
-    # - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    # - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-    # - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    # - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-    # - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    # - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-    # - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-    # - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    # - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+    # - { platform: linkedin,       user_url: "" }
+    # - { platform: stackoverflow,  user_url: "" }
+    # - { platform: x,              user_url: "" }
+    # - { platform: substack,       user_url: "" }
+    # - { platform: devto,          user_url: "" }
+    # - { platform: dribbble,       user_url: "" }
+    # - { platform: facebook,       user_url: "" }
+    # - { platform: flickr,         user_url: "" }
+    # - { platform: google_scholar, user_url: "" }
+    # - { platform: instagram,      user_url: "" }
+    # - { platform: keybase,        user_url: "" }
+    # - { platform: microdotblog,   user_url: "" }
+    # - { platform: pinterest,      user_url: "" }
+    # - { platform: telegram,       user_url: "" }
+    # - { platform: youtube,        user_url: "" }
