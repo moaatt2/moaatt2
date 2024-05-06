@@ -42,7 +42,7 @@ minima:
 
     - platform: code
       user_url: "https://github.com/moaatt2/moaatt2"
-      user_title: "moaatt2/moaatt2"
+      user_title: "Source Code"
 
     - platform: rss
       user_url: "/feed.xml"
