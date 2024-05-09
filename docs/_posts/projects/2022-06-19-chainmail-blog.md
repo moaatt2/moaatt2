@@ -19,4 +19,4 @@ As this was the first website I had published using GitHub pages it is very simp
 
 ### Future Plans
 
-In the future I plan to update the blog to allow for local building/viewing  and thus the use of branching in the repository to clean up my workflow.
+In the future I plan to update the blog to allow for local building/viewing  and thus the use of branching in the repository to clean up my workflow. In fact I actually plan to base the updated blog on this website and implement what I have learned in customizing this website as well as to potentially take things further.
