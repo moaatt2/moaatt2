@@ -7,7 +7,7 @@ type: project
 status: ongoing
 ---
 
-Content Status: Ideation
+Content Status: Refinement
 
 ### Origins and Inspiration
 
