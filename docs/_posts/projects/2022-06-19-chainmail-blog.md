@@ -17,7 +17,7 @@ In [this repository](https://github.com/moaatt2/test-blog), I maintain [a chainm
 
 ### Technical Overview
 
-As this was the first website I had published using GitHub pages it is very simple. The blog is a static website generated from markdown files by Jekyll running via GitHub actions, using one of the offered basic themes(Hacker). This design makes it quite easy to modify and add content to the blog, however since the repository only contains markdown files you cannot build the website locally and must take the changes live to view them rendered making it unrealistic to use branches in the workflow. Below is a diagram showing the tech stack for the blog:
+Due to this being my first website made using GitHub Pages, it is simple. The blog is a static website generated from markdown files by Jekyll running via GitHub actions, using one of the offered basic themes(Hacker). This simple design allows for easy modification and addition of content to the blog. However, because the repository only contains markdown files, it cannot be built locally. Due to this, you can only see the changes rendered as a website when they are made live. Sadly, this makes it impractical to incorporate branches into the workflow. Below is a tech stack diagram for the current state of the blog:
 
 ![tech stack diagram](/assets/images/projects/2022-06-19-chainmail-blog/tech_stack_diagram.png)
 
