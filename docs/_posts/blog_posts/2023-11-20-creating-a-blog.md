@@ -21,3 +21,11 @@ However when I went to push the website to github pages I noticed that it did't 
 Additionaly, I also created blog and project layouts for use on different pages to let me create a blog page with blog posts separate from my projects page to funciton as a portfolio.
 
 Finally, I created a resume layout page that is built dynamically from a `resume.yml` data file and used it to create the Resume page.
+
+Structure plans:
+* Opening paragraph - motivations and decsion to make website
+* Paragraph 1 - How I made the base website
+* Paragraph 2 - How I created the resume page
+* Paragraph 3 - How I created the blog and and posts pages.
+* Paragraph 4 - Various customizations
+* Concluding Paragraph - you should make your own stuff and make your own portfolio website
