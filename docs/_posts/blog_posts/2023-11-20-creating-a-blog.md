@@ -20,8 +20,7 @@ p3 - TODO
 
 p4 - TODO
 
-conclusion - TODO
-
+Overall I found making this portfoilio website to be a and fun and iluminating project. It has caused me to install Ruby which I might try programming in later, given me much more exposure to the Jekyll framework, increased my knowledge of web development and provided me a platform to showcase my skills to others. Creating a portfolio website is a project that I highly recomend to any programmer. GitHub makes it very easy to create an host a website for free and a large part of learning programming is making things, a portfolio website is the perfect place to show off what you have made.
 
 #### Structure plans
 
