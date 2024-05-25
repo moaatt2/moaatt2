@@ -6,7 +6,40 @@ permalink: '/blog/creating_a_blog'
 type: blog
 ---
 
-Status: Ideation
+Status: Drafting
+
+#### Content - In Progress
+
+opening - TODO
+
+p1 - TODO
+
+p2 - TODO
+
+p3 - TODO
+
+p4 - TODO
+
+conclusion - TODO
+
+
+#### Structure plans
+
+* Opening paragraph:
+    * Motivations and decsion to make website
+* Paragraph 1:
+    * How I made the base website
+* Paragraph 2:
+    * How I created the resume page
+* Paragraph 3:
+    * How I created the blog and and posts pages.
+* Paragraph 4:
+    * Various customizations
+* Concluding Paragraph:
+    * You should make your own stuff and make your own portfolio website
+
+
+#### Content Snippets
 
 After working on my [chainmail blog]() for a while I decided that I wanted to try making a website with Jekyll that could be built and previewed locally and use GitHub for hosting.
 
@@ -21,11 +54,3 @@ However when I went to push the website to github pages I noticed that it did't 
 Additionaly, I also created blog and project layouts for use on different pages to let me create a blog page with blog posts separate from my projects page to funciton as a portfolio.
 
 Finally, I created a resume layout page that is built dynamically from a `resume.yml` data file and used it to create the Resume page.
-
-Structure plans:
-* Opening paragraph - motivations and decsion to make website
-* Paragraph 1 - How I made the base website
-* Paragraph 2 - How I created the resume page
-* Paragraph 3 - How I created the blog and and posts pages.
-* Paragraph 4 - Various customizations
-* Concluding Paragraph - you should make your own stuff and make your own portfolio website
