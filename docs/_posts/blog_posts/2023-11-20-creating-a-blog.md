@@ -10,7 +10,7 @@ Status: Drafting
 
 #### Content - In Progress
 
-opening - TODO
+A friend of mine recently made a blog using Jekyll and github pages and sent me the tutorials ([Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) by [Giraffe Academy](https://www.giraffeacademy.com/)) he used. When reviewing the tutorials I found that they differed from my chainmail blog in that this workflow started with downloading ruby and jekyll so you can build and host the website locally so you can see the changes as you make them. This would fix one of the largest issues I had with my blog and allow me to use branching logic. However I wanted to try it out and learn how it workd before I implemented it into the blog. Rather than making a small test website I decided to create this portfiolio website so that I would be making something I needed while learning how to use Jekyll.
 
 p1 - TODO
 
