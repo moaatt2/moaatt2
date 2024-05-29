@@ -14,7 +14,7 @@ A friend of mine recently made a blog using Jekyll and github pages and sent me 
 
 Following the tutorials had me start with installing Ruby and Gem then the Jekyll framework. From there I ran a setup command to create the boilerplate for a Jekyll project, then modified the `_config.yml` file to set a title, footer information, and set the theme to minima dark. In order to ensure that the website worked when pushed to GitHub I also created a separate part in the `_config.yml` file to denote GitHub specific settings, in this case a different baseurl.
 
-p2 - TODO
+As this was intended to be a portfolio website I needed to include a resume, and I wanted the resume to be easy to update so I couldn't hardcode the page. When I found out about data files I realized that they would provide the perfect opportunity to make that possible. I then created the `resume.yml` data file to contain all of the resume content and sections I needed and filled it out. Then I created the `resume.html` layout using jinja formatting reading from the data file so the page would respond to the content of the data file and I could easily update the data file to update the resume. Lastly, I created the `resume.md` page and had it use the resume layout so that I would have a nice clear Resume option at the top of the page available from any page.
 
 p3 - TODO
 
