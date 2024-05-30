@@ -16,7 +16,7 @@ Following the tutorials had me start with installing Ruby and Gem then the Jekyl
 
 As this was intended to be a portfolio website I needed to include a resume, and I wanted the resume to be easy to update so I couldn't hardcode the page. When I found out about data files I realized that they would provide the perfect opportunity to make that possible. I then created the `resume.yml` data file to contain all of the resume content and sections I needed and filled it out. Then I created the `resume.html` layout using jinja formatting reading from the data file so the page would respond to the content of the data file and I could easily update the data file to update the resume. Lastly, I created the `resume.md` page and had it use the resume layout so that I would have a nice clear Resume option at the top of the page available from any page.
 
-p3 - TODO
+Since this is a portfolio blog I wanted somewhere to display my projects as well and also to have somewhere to write blog posts on more technical topics should I feel like it. I liked how the homepage displayed posts and decided to base both the blog and projects pages on it. To do that I added a `type` value to the front matter and created two layout varants (`blog.html` and `projects.html`) of the basic homepage that itterated over all posts and filtered based on the post type, then created two new pages `blog.md` and `projects.md` to use those layouts and add the `Blog` and `Projects` headings to my website.
 
 p4 - TODO
 
