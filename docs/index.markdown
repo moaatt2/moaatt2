@@ -5,8 +5,10 @@
 layout: page
 ---
 
-Content: Ideation
+Content: Refining
 
 Idea: Pseudo about page
 
-Hello my name is Dakota and welcome to my portfio/resume website. I enjoy gaming(both analog and digital), reading, and programming. I enjoy learning new skills and using them to satisfy my curiosity. If you would like to know my thoughts on programming related topics please check out my [blog](blog), if you would like to see write-ups of the things I have made please check out the [projects](/projects) page, if you would like to view my resume please see the [resume](/resume) page, or if you wish to contact me please use the [contact](/contact) form.
+Hello, my name is Dakota. Welcome to my portfolio and resume website. I enjoy analog and digital gaming, reading, and programming. I love learning new skills and using them to satisfy my curiosity.
+
+To read my thoughts on programming-related topics, check out my [Blog](/blog). For write-ups on my projects, visit the [Projects](/projects) page. You can view my resume on the [Resume](/resume) page. If you wish to contact me, please use the [Contact](/contact) form.
