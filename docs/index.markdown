@@ -5,10 +5,6 @@
 layout: page
 ---
 
-Content: Refining
-
-Idea: Pseudo about page
-
 Hello, my name is Dakota. Welcome to my portfolio and resume website. I enjoy analog and digital gaming, reading, and programming. I love learning new skills and using them to satisfy my curiosity.
 
 
