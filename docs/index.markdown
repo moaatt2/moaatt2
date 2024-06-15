@@ -8,12 +8,4 @@ layout: page
 Hello, my name is Dakota. Welcome to my portfolio and resume website. I enjoy analog and digital gaming, reading, and programming. I love learning new skills and using them to satisfy my curiosity.
 
 
-To read my thoughts on programming-related topics, check out my [Blog]({% link pages/blog.md %}). For write-ups on my projects, visit the [Projects]({% link pages/projects.md %}) page. You can view my resume on the [Resume]({% link pages/resume.md %}) page. If you wish to contact me, please use the [Contact]({% link pages/xcontact.md %}) form.
-
-Test Links 4;
-
-[Blog test 4](/blog)
-
-[Blog test 4]({% link pages/blog.md %})
-
-[Blog test 4]({{site.baseurl}}{% link pages/blog.md %})
+To read my thoughts on programming-related topics, check out my [Blog]({{site.baseurl}}{% link pages/blog.md %}). For write-ups on my projects, visit the [Projects]({{site.baseurl}}{% link pages/projects.md %}) page. You can view my resume on the [Resume]({{site.baseurl}}{% link pages/resume.md %}) page. If you wish to contact me, please use the [Contact]({{site.baseurl}}{% link pages/xcontact.md %}) form.
