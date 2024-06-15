@@ -8,8 +8,9 @@ baseurl: "moaatt2/"
 # Site settings
 title: Dakota McKay
 email: dakotamckay72@gmail.com
-description: "Content: TODO | footer description"
+description: "Welcome to my portfolio website"
 url: ""
+formspree_form_id: mqkvovpa
 
 # Author Information
 author:
@@ -41,7 +42,7 @@ minima:
 
     - platform: code
       user_url: "https://github.com/moaatt2/moaatt2"
-      user_title: "moaatt2/moaatt2"
+      user_title: "Source Code"
 
     - platform: rss
       user_url: "/feed.xml"
