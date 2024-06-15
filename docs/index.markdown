@@ -10,8 +10,7 @@ Hello, my name is Dakota. Welcome to my portfolio and resume website. I enjoy an
 
 To read my thoughts on programming-related topics, check out my [Blog]({% link pages/blog.md %}). For write-ups on my projects, visit the [Projects]({% link pages/projects.md %}) page. You can view my resume on the [Resume]({% link pages/resume.md %}) page. If you wish to contact me, please use the [Contact]({% link pages/xcontact.md %}) form.
 
-
-Test Links 4:
+Test Links 4;
 
 [Blog test 4](/blog)
 
