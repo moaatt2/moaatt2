@@ -2,7 +2,7 @@
 # baseurl: ""
 
 # Github Pages Setting | Turn these on for github pages deployment
-baseurl: "moaatt2/"
+baseurl: "/moaatt2"
 
 
 # Site settings
