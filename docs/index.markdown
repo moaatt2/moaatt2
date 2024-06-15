@@ -11,14 +11,10 @@ Hello, my name is Dakota. Welcome to my portfolio and resume website. I enjoy an
 To read my thoughts on programming-related topics, check out my [Blog]({% link pages/blog.md %}). For write-ups on my projects, visit the [Projects]({% link pages/projects.md %}) page. You can view my resume on the [Resume]({% link pages/resume.md %}) page. If you wish to contact me, please use the [Contact]({% link pages/xcontact.md %}) form.
 
 
-Test Links:
+Test Links 4:
 
-{{site.baseurl}}
+[Blog test 4](/blog)
 
-{% link pages/blog.md %}
+[Blog test 4]({% link pages/blog.md %})
 
-[Blog](/blog)
-
-[Blog]({% link pages/blog.md %})
-
-[Blog]({{site.baseurl}}{% link pages/blog.md %})
+[Blog test 4]({{site.baseurl}}{% link pages/blog.md %})
