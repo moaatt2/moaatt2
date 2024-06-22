@@ -35,6 +35,7 @@ minima:
   social_links:
     - platform: github
       user_url: https://github.com/moaatt2
+      user_title: GitHub
 
     - platform: email
       user_url: "mailto:dakotamckay72@gmail.com"
