@@ -46,7 +46,7 @@ minima:
       user_title: "Source Code"
 
     - platform: rss
-      user_url: "/feed.xml"
+      user_url: "/moaatt2/feed.xml"
       user_title: "RSS Feed"
 
     # Potential future additions
