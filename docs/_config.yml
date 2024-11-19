@@ -10,26 +10,28 @@ title: Dakota McKay
 email: dakotamckay72@gmail.com
 description: "Welcome to my portfolio website"
 url: ""
-formspree_form_id: mqkvovpa
+
+# Contact Settings
+contact:
+  title: Talk to me
+  formspree_form_id: mqkvovpa
+  form_message: ""
 
 # Author Information
 author:
   name: Dakota McKay
   email: dakotamckay72@gmail.com
 
-# Version info for footer
-github:
-  versions:
-    jekyll: "4.3.2"
-    github-pages: "288"
-
-
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# If you have a favicon(tab icon) set the filepath for it below
+favicon: /assets/images/icon.png
+
 # minima settings
+remote_theme: moaatt2/minima@master
 minima:
   skin: dark
   social_links:
@@ -42,7 +44,7 @@ minima:
       user_title: "dakotamckay72@gmail.com" 
 
     - platform: code
-      user_url: "https://github.com/moaatt2/moaatt2"
+      user_url: "https://github.com/moaatt2/moaatt2/tree/gh-pages"
       user_title: "Source Code"
 
     - platform: rss
