@@ -1,5 +1,3 @@
-# Local Settings | Turn these on for local development
-# baseurl: ""
 
 # Github Pages Setting | Turn these on for github pages deployment
 baseurl: ""
