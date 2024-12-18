@@ -30,7 +30,7 @@ favicon: /assets/images/icon.png
 
 feed:
   # url: 192.168.2.10 # override url for rss feed for local testing
-  url: https://www.dakotamckay.dev/ # manually set url for use with github pages.
+  url: https://www.dakotamckay.dev # manually set url for use with github pages.
   path: /feed.xml
   icon: /assets/images/icon.png
 
