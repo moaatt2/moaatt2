@@ -22,14 +22,14 @@ author:
 
 # Build settings
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
 
 # If you have a favicon(tab icon) set the filepath for it below
 favicon: /assets/images/icon.png
 
 # minima settings
-remote_theme: moaatt2/minima@master
+remote_theme: moaatt2/minima@fix_rss
 minima:
   skin: dark
   social_links:
