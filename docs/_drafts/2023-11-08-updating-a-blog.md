@@ -32,3 +32,18 @@ RSS
     * No icon/logo support
     * No support for setting image size
     * No support for manually setting url
+
+3d model:
+* Decided on using threejs since it had an easy
+* Started following youtube tutorials which were not helpful.
+* Ended up following tutorials from the threejs website, these were very helpful.
+    * Start with just getting cubes on screen.
+    * Figure out how to import a
+    * Figured out how to switch from orbit controls to trackball controls. I didn't like how orbit controls couldn't move past the poles.
+* I had trouble working out the lighting as ambient lighting doesn't work on metallic materials. I ended up deciding that the best way to sort it out for the time being was to modify the models to be rougher non-metalic material and add some point lights to make it easier to see.
+* Modifed the tutorial code to be used in an include so it can be reuseable.
+* Updated the include to allow for:
+    * Specifying the canvas name, so multiple models can go in the same post.
+    * Not including its own canvas so you can target another canvas,
+    * Not including the imports/style tag to avoid duplicates with multiple uses.
+* Realize that the styling should go with the css for the posts.
