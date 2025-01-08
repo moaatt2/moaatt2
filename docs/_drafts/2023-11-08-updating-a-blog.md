@@ -47,3 +47,10 @@ RSS
     * Not including its own canvas so you can target another canvas,
     * Not including the imports/style tag to avoid duplicates with multiple uses.
 * Realize that the styling should go with the css for the posts.
+
+About Page:
+
+* The years dynamically update each time the page reloads.
+* Help Docs:
+    * [Calculate Date differences](https://stackoverflow.com/questions/7763327/how-to-calculate-date-difference-in-javascript)
+    * [Round years](https://www.geeksforgeeks.org/how-to-round-a-number-to-a-certain-number-of-decimal-places-in-javascript/)
