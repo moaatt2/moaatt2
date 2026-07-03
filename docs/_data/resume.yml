@@ -38,10 +38,21 @@ education:
       - "Minor: Computer Science"
 
 experience:
+  - company: 0ne
+    location: "Hamilton, ON"
+    title: 'Senior Software Engineer'
+    time: '2025 - 2026'
+    points:
+      - Built and maintained full-stack fintech applications using Python, TypeScript, and Supabase/PostgreSQL, delivering payment, wallet, pricing, and administrative features.
+      - Improved payment reliability by redesigning wallet reconciliation, server-side pricing, and financial safeguards for production systems.
+      - Developed Python-based data pipelines and forensic analyses that transformed thousands of documents into $2.7M+ in auditable financial findings.
+      - Partnered with company leadership to scope projects, evaluate vendors, and independently deliver production systems from architecture through deployment.
+      - Owned production system reliability across payments and pricing flows, implementing idempotency, audit logging, and migration safeguards during live platform changes.
+
   - company: GiftCash
     location: "Hamilton, ON"
     title: 'Full Stack Data Scientist'
-    time: '2019 - Present'
+    time: '2019 - 2025'
     points:
       - Built and managed ETL systems on AWS EC2, cron, Astronomer-hosted Airflow, and AWS S3 making centralized analytics possible.
       - Led complete overhaul of our legacy Looker code-base, improving performance through implementation of OLAP best practices and implementation of modular design.
