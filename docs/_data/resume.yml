@@ -40,7 +40,7 @@ education:
 experience:
   - company: 0ne
     location: "Hamilton, ON"
-    title: 'Senior Software Engineer'
+    title: 'Data Engineer'
     time: '2025 - 2026'
     points:
       - Built and maintained full-stack fintech applications using Python, TypeScript, and Supabase/PostgreSQL, delivering payment, wallet, pricing, and administrative features.
